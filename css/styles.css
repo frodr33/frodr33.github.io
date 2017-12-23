@@ -1,3 +1,16 @@
+/* MY CSS */
+#myName {
+	font-size: 25;
+	font-family: Quicksand;
+}
+
+#myDescrip {
+	font-size: 15;
+	font-family: Quicksand;
+}
+
+
+/* Old CSS */
 html, body{
 	font-size:16px;
 	color: #dfdfdf;
@@ -108,13 +121,3 @@ a.nav-item:hover {
 }
 
 
-/* MY CSS */
-#myName {
-	font-size: 25;
-	font-family: Quicksand;
-}
-
-#myDescrip {
-	font-size: 15;
-	font-family: Quicksand;
-}
