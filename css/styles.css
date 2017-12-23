@@ -106,3 +106,15 @@ a.nav-item:hover {
 	}
 
 }
+
+
+/* MY CSS */
+#myName {
+	font-size: 25;
+	font-family: Quicksand;
+}
+
+#myDescrip {
+	font-size: 15;
+	font-family: Quicksand;
+}
