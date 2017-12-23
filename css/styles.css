@@ -1,13 +1,12 @@
 /* MY CSS */
 #myName {
-	color: pink;
-/*	font-size: 25;*/
-	/*font-family: Arial;*/
+	font-size: 25px;
+	font-family: Quicksand;
 }
 
 #myDescrip {
-	font-size: 15;
-	font-family: Arial;
+	font-size: 15px;
+	font-family: Quicksand;
 }
 
 
