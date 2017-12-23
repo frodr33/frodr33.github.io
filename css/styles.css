@@ -11,6 +11,14 @@
 	font-family: Quicksand;
 }
 
+.socialM {
+	color: #fff;
+	text-align: center;
+	margin-bottom: 2rem;
+	font-size: 30px;
+}
+
+
 
 /* Old CSS */
 html, body{
@@ -87,11 +95,6 @@ a.nav-item:hover {
 	border: 2px solid rgba(7, 59, 79, 0.5);
 }
 
-.socialM {
-	color: #fff;
-	text-align: center;
-	margin-bottom: 2rem;
-}
 
 .intro {
 	text-align: justify;
