@@ -81,6 +81,7 @@ a.nav-item:hover {
 	max-width:100%;
 	max-height:175px;
 	margin-bottom:15px;
+	text-align: center;
 }
 
 .project-figure {
