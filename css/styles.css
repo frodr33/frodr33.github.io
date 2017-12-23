@@ -1,11 +1,12 @@
 /* MY CSS */
 #myName {
 	font-size: 30px;
+	color: white;
 	font-family: Quicksand;
 }
 
 #myDescrip {
-	font-size: 12px;
+	font-size: 15px;
 	font-family: Quicksand;
 }
 
