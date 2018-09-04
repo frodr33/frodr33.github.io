@@ -180,12 +180,14 @@ html, body {
 }
 
 .image {
-    width: 250px;
+    width: 12em;
     height: auto;
 }
 
 .margin-image {
     margin-top: 1%;
+    width: 12em;
+    height: auto;
 }
 
 .nopm {
