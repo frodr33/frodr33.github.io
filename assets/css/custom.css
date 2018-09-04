@@ -185,7 +185,7 @@ html, body {
 }
 
 .margin-image {
-    margin-top: 1%;
+    /* margin-top: 1%; */
     width: 12em;
     height: auto;
 }
