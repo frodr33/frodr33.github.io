@@ -203,3 +203,5 @@ html, body {
     height: 100%;
     position: relative;
 }
+
+#loadOverlay{display: none;}
